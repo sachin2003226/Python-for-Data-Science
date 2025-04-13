@@ -1,6 +1,7 @@
 # Python for Data Science
 Python is a high-level programming language which has gained a remarkable growth in the field of Data Science.
-# this repo covers:
+
+# learning outcomes:
 
 Work with Numpy arrays and matrices by considering images as a form of matrices.
 
